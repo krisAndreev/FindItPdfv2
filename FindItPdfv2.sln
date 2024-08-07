@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindItPdfv2", "FindItPdfv2\FindItPdfv2.csproj", "{6F8B5148-A3E9-4657-8031-C526AECACB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8B5148-A3E9-4657-8031-C526AECACB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8B5148-A3E9-4657-8031-C526AECACB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8B5148-A3E9-4657-8031-C526AECACB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8B5148-A3E9-4657-8031-C526AECACB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2BD9F2E-6C52-4B6C-A480-5A50049BE4D5}
+	EndGlobalSection
+EndGlobal
